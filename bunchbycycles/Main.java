@@ -15,7 +15,7 @@ public class Main {
       else if(i>=410 && i<949)
         counts.mediumCount++;
       else
-        counts.highCount++
+        counts.highCount++;
       }
     return counts;
   }
